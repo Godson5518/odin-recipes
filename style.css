@@ -1,0 +1,30 @@
+a:link {
+    font: bold;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:visited {
+    font: bold;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover {
+    color: bisque;
+}
+
+.header {
+    font-size: 95px;
+    text-align: center;
+    color: purple;
+}
+
+ul {
+    text-align: center;
+    font-size: 30px;
+}

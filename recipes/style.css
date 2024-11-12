@@ -1,0 +1,15 @@
+.text {
+    font-size: large;
+}
+
+ul {
+    font-size: larger;
+    color: rgb(8, 16, 87);
+    background-color: bisque;
+}
+
+ol {
+    font-weight: bold;
+    font-size: larger;
+    
+}
